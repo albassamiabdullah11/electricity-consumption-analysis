@@ -97,7 +97,7 @@ Despite using synthetic data, this project demonstrates:
 -  Aspiring Data Scientist
 -  Email: albassamiabdullah11@gmail.com
 -  LinkedIn: [www.linkedin.com/in/abdullah-al-bassami)
--  GitHub: [github.com/abdullah-albassami](https://github.com/abdullah-albassami)
+-  GitHub: [www.github.com/albassamiabdullah11]
 
 ##  License
 This project is licensed under the MIT License - see below for details.
