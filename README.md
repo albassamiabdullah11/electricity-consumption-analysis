@@ -96,7 +96,7 @@ Despite using synthetic data, this project demonstrates:
 -  Computer Science Graduate | King Khalid University
 -  Aspiring Data Scientist
 -  Email: albassamiabdullah11@gmail.com
--  LinkedIn: [linkedin.com/in/abdullah-albassami](https://linkedin.com/in/abdullah-albassami)
+-  LinkedIn: [www.linkedin.com/in/abdullah-al-bassami)
 -  GitHub: [github.com/abdullah-albassami](https://github.com/abdullah-albassami)
 
 ##  License
